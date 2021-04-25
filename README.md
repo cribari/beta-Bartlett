@@ -54,4 +54,4 @@ given in presented in Cordeiro (1993) to obtain the Bartlett correction factor f
 
 # Contact
 In case of questions regarding the computer code, please contact
-Cristina Guedes (crisguedespereira at gmail [dots] com)
+Cristina Guedes (crisguedespereira at gmail [dot] com)
